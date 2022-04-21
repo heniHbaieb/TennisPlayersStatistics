@@ -1,0 +1,15 @@
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\DbUpMigrations.deps.json
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\DbUpMigrations.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\DbUpMigrations.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.csproj.AssemblyReference.cache
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.AssemblyInfoInputs.cache
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.AssemblyInfo.cs
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.csproj.CoreCompileInputs.cache
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.csproj.CopyComplete
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\DbUpMigrations\obj\Debug\netcoreapp3.1\DbUpMigrations.pdb
