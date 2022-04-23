@@ -1,9 +1,13 @@
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\bin\Debug\netcoreapp3.1\Contract.deps.json
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\bin\Debug\netcoreapp3.1\Contract.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\bin\Debug\netcoreapp3.1\Contract.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.AssemblyReference.cache
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfoInputs.cache
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.AssemblyInfo.cs
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.CoreCompileInputs.cache
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.csproj.CopyComplete
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Contract\obj\Debug\netcoreapp3.1\Contract.pdb

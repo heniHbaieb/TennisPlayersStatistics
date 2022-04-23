@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MQBYdSyXLzCuLraYHDz9azOocQpG3Hql5FExmkJqG3+7OuNkxnJdN2RavlYJ/XOCo7WHna7Jeo7jcwpgn32gdg==",
+  "dgSpecHash": "/F2jjkpdbQ/C9yAVh4XoccrCCyqf3JCTWZpYupjhRbeRSKtM8KfEvrTPD8qchDDSyKoIlqn+E1eFnpZNQhmOZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hhbaieb\\Documents\\Perso\\TennisPlayersStatistics\\DbUpMigrations\\DbUpMigrations.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

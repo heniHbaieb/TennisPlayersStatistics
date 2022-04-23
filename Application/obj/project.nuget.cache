@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ow8zL+PmrbGwOSe935/mRyYoc7iUhhuDebWYnzN7UZX2HnF1fp4M6GNSIACWU5dZFFbUeIZTrXDveCL/313V/A==",
+  "dgSpecHash": "MWP8V3BWkn2NOzE0Y2cjMioxW8y4KSnb5S++Dbqypprz02d8dX6Zni+7FGGystbJyg+CPw5/wR8a9Qs+PoL5mw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hhbaieb\\Documents\\Perso\\TennisPlayersStatistics\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

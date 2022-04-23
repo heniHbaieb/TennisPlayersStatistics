@@ -6,7 +6,11 @@ C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcor
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
