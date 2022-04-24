@@ -86,7 +86,6 @@ C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\bin\Debug\netcorea
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs

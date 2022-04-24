@@ -3,6 +3,7 @@ using Contract.DTOs;
 using Contract.Services;
 using Domain.Repositories;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Application.Services
 {
@@ -27,6 +28,17 @@ namespace Application.Services
         {
             var player = _playerRepository.GetPlayer(idPlayer);
             return _mapper.Map<Player>(player);
+        }
+
+        public PlayerStats GetPlayerStats()
+        {
+            var players = _playerRepository.AllPlayers();
+            return new PlayerStats()
+            {
+                MedianHeight = players.Average(p => p.Data.Height),
+                Imc = players.Average(p => (((double)p.Data.Weight / 1000) / (((double)p.Data.Height / 100) * ((double)p.Data.Height / 100)))),
+                Country = players.Where(p => p.Data.Points == players.Max(p => p.Data.Points)).Select(p => p.Country.Code).FirstOrDefault()
+            };
         }
     }
 }

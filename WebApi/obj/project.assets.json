@@ -200,25 +200,11 @@
           "bin/placeholder/Contract.dll": {}
         }
       },
-      "DbUpMigrations/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Infrastructure": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/DbUpMigrations.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DbUpMigrations.dll": {}
-        }
-      },
       "DependencyInjection/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Application": "1.0.0",
-          "DbUpMigrations": "1.0.0",
           "Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
@@ -648,11 +634,6 @@
       "type": "project",
       "path": "../Contract/Contract.csproj",
       "msbuildProject": "../Contract/Contract.csproj"
-    },
-    "DbUpMigrations/1.0.0": {
-      "type": "project",
-      "path": "../DbUpMigrations/DbUpMigrations.csproj",
-      "msbuildProject": "../DbUpMigrations/DbUpMigrations.csproj"
     },
     "DependencyInjection/1.0.0": {
       "type": "project",

@@ -5,8 +5,8 @@ using System.Collections.Generic;
 
 namespace WebApi.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("[controller]/[action]")]
     public class PlayerController : ControllerBase
     {
         private readonly IPlayerService _playerService;
@@ -26,6 +26,12 @@ namespace WebApi.Controllers
         public Player GetPlayerById(int idPlayer)
         {
             return _playerService.GetPlayerById(idPlayer);
+        }
+
+        [HttpGet]
+        public PlayerStats ShowPlayerStats()
+        {
+            return _playerService.GetPlayerStats();
         }
     }
 }

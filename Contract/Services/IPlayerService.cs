@@ -7,5 +7,6 @@ namespace Contract.Services
     {
         IEnumerable<Player> AllPlayers();
         Player GetPlayerById(int idPlayer);
+        PlayerStats GetPlayerStats();
     }
 }

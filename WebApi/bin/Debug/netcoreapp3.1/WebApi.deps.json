@@ -484,21 +484,9 @@
           "Contract.dll": {}
         }
       },
-      "DbUpMigrations/1.0.0": {
-        "dependencies": {
-          "Infrastructure": "1.0.0"
-        },
-        "runtime": {
-          "DbUpMigrations.dll": {}
-        },
-        "compile": {
-          "DbUpMigrations.dll": {}
-        }
-      },
       "DependencyInjection/1.0.0": {
         "dependencies": {
           "Application": "1.0.0",
-          "DbUpMigrations": "1.0.0",
           "Infrastructure": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
@@ -2335,11 +2323,6 @@
       "sha512": ""
     },
     "Contract/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "DbUpMigrations/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
