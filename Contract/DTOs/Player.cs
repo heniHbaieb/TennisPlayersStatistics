@@ -1,6 +1,4 @@
-﻿using Domain.Models;
-
-namespace Contract.DTOs
+﻿namespace Contract.DTOs
 {
     public class Player
     {
