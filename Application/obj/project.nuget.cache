@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MWP8V3BWkn2NOzE0Y2cjMioxW8y4KSnb5S++Dbqypprz02d8dX6Zni+7FGGystbJyg+CPw5/wR8a9Qs+PoL5mw==",
+  "dgSpecHash": "KNNWdcMWSLp3hIiATIMuNJ3skXqvmDNK8MDODXMZjcwHXP7b/ljxaw/jmGOrA/UVbGY/sS6334IHqIKK8cA2kw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hhbaieb\\Documents\\Perso\\TennisPlayersStatistics\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hhbaieb\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],

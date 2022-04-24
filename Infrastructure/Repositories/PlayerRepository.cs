@@ -25,8 +25,8 @@ namespace Infrastructure.Repositories
 
         public Player GetPlayer(int idPlayer)
         {
-            ImportFromStorage();
-            throw new NotImplementedException();
+            var players = ImportFromStorage();
+            return players.FirstOrDefault(p => p.Id == idPlayer);
         }
     }
 }

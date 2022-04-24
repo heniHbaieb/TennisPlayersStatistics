@@ -21,5 +21,11 @@ namespace WebApi.Controllers
         {
             return _playerService.AllPlayers();
         }
+
+        [HttpGet("{idPlayer}")]
+        public Player GetPlayerById(int idPlayer)
+        {
+            return _playerService.GetPlayerById(idPlayer);
+        }
     }
 }

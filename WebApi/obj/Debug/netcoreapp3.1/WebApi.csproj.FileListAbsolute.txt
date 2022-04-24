@@ -8,6 +8,7 @@ C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcor
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Enums.NET.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\hhbaieb\Documents\Perso\TennisPlayersStatistics\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

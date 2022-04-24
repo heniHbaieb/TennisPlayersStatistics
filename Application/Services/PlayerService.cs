@@ -22,5 +22,11 @@ namespace Application.Services
             var players = _playerRepository.AllPlayers();
             return _mapper.Map<IEnumerable<Player>>(players);
         }
+
+        public Player GetPlayerById(int idPlayer)
+        {
+            var player = _playerRepository.GetPlayer(idPlayer);
+            return _mapper.Map<Player>(player);
+        }
     }
 }

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ltcXuWAtRswmjl2JWaYF1nxO4agjVdKnT7NTOEQQsMclHRuIReSz673Fz5L4HlZVVbz/nkxhZdMOtMVYSx1cog==",
+  "dgSpecHash": "At10/WnSy66KcUBVND5JS5AnWAn6w00xzCqx/ZXLR5qtNYz/oDvN9Z3RT4ShU+h1x8qkXKsxPHMyEr88XXolQA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hhbaieb\\Documents\\Perso\\TennisPlayersStatistics\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hhbaieb\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\hhbaieb\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\hhbaieb\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
