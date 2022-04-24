@@ -21,6 +21,7 @@ namespace Application.Services
         public IEnumerable<Player> AllPlayers()
         {
             var players = _playerRepository.AllPlayers();
+            players = players.OrderBy(p => p.Data.Rank).ToList();
             return _mapper.Map<IEnumerable<Player>>(players);
         }
 
